@@ -1,4 +1,8 @@
-
+/*
+ * CoinageMETA, a Gamebuino game
+ *
+ * Copyright 2018, Rafal Boguszewski
+ */
 
 #include <Gamebuino-Meta.h>
 
